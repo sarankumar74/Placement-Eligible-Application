@@ -6,7 +6,7 @@ def connect_db():
     return mysql.connector.connect(
         host="localhost",
         user="root",
-        password="8148",
+        password="password",
         database="placement"
     )
 
@@ -145,3 +145,4 @@ if st.button("🔟 Placement Placed Student List"):
         WHERE p.placement_status = 'Placed';
     """)
     st.dataframe(df)
+
