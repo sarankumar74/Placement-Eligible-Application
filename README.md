@@ -82,19 +82,22 @@ The solution must integrate:
 - Embed these analytical results within the **Streamlit dashboard**.  
 
 
-<details>
+
 <summary>📸 Click to view Streamlit UI screenshots</summary>
 
 #### Home Page  
-![Home Page]("D:\AI Images\Home Page.jpg")
+![Home Page](https://github.com/user-attachments/assets/d33aafd0-8cd5-4821-b96f-a4c4d55761a7)
+
 
 #### Results Page  
-![Results Page](assets/results_page.png)
+![Result Page](https://github.com/user-attachments/assets/b3ae0cc7-4ef2-4126-9866-fe4018f135f9)
+
 
 #### Analytics Dashboard  
-![Dashboard](assets/dashboard.png)
+![Dashboard](https://github.com/user-attachments/assets/80d535ab-0513-4b90-a1b7-f742c07e64f6)
 
-</details>
+
+
 
 ---
 
