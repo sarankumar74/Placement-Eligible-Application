@@ -105,6 +105,7 @@ The solution must integrate:
 ```bash
 Placement-Eligibility-App/
 │
+├── mysql.ipynb                   # Mysql notebook  file
 ├── app/
 │   ├── streamlit_app.py          # Main Streamlit user interface
 ├── requirements.txt              # Python dependencies
