@@ -81,6 +81,21 @@ The solution must integrate:
   - Soft skills distribution visualization  
 - Embed these analytical results within the **Streamlit dashboard**.  
 
+
+<details>
+<summary>📸 Click to view Streamlit UI screenshots</summary>
+
+#### Home Page  
+![Home Page]("D:\AI Images\Home Page.jpg")
+
+#### Results Page  
+![Results Page](assets/results_page.png)
+
+#### Analytics Dashboard  
+![Dashboard](assets/dashboard.png)
+
+</details>
+
 ---
 
 ## 🧩 Project Structure
@@ -89,12 +104,5 @@ Placement-Eligibility-App/
 │
 ├── app/
 │   ├── streamlit_app.py          # Main Streamlit user interface
-│   └── utils/
-│       ├── db_connection.py      # SQL connection and query execution class
-│       ├── data_generator.py     # Synthetic data creation using Faker
-│       ├── eligibility_filter.py # Eligibility filtering logic
-│       └── insights.py           # SQL-based analytics queries
-│
-├── environment.yml               # Conda environment setup
 ├── requirements.txt              # Python dependencies
 └── README.md                     # Project documentation
